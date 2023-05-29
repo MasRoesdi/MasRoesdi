@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Rusdi
+#### I am a developer
+I have a passion for developing web applications, both professional and silly/meaningless web. Most of the projects that I make is either a product of boredom or school projects, period. I might have a serious project in the future, but who knows.
 
-<!--
-**MasRoesdi/MasRoesdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have some experience dealing with mobile development using Kotlin, React Native, and Flutter/Dart. Out of those three, flutter is the one that I like the most and one that I have the most experience on.
 
-Here are some ideas to get you started:
+I also have some experience in other languages too, such as:
+- Python
+- Java
+- C#
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Although, I must say that my experience in those languages are minimum.
+
+Skills: HTML / CSS / JS / PHP / Laravel / NextJS / Dart / Flutter / Kotlin / React / Python
